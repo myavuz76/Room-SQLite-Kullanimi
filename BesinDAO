@@ -4,6 +4,7 @@ import androidx.room.Insert
 import androidx.room.Query
 import com.example.besinuygulamasi.Model.Besin
 
+@Dao
 interface BesinDAO {
 
     // veritabanina baglandigimiz, verileri cektigimiz, verileri ekledigimiz kodlari
