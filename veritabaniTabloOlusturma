@@ -1,3 +1,6 @@
+https://developer.android.com/training/data-storage/room?hl=tr#data-entity
+
+
 projelerimizde sqlite kullanmak istiyorsak room kütüphanesini kullanmak zorundayiz
 
 sonra besin Model sinifimiza gidiyoruz ve 
